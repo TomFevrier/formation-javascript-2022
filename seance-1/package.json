@@ -1,0 +1,16 @@
+{
+	"name": "seance-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Tom Février <tomfevrier@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"d3-array": "^2.12.1",
+		"esm": "^3.2.25",
+		"node-fetch": "^2.6.7"
+	}
+}
